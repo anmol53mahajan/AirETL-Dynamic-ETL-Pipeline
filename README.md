@@ -309,11 +309,9 @@ A full-featured web application for file upload and data visualization.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/AirETL-Dynamic-ETL-Pipeline.git
+git clone https://github.com/anmol53mahajan/AirETL-Dynamic-ETL-Pipeline.git
 cd AirETL-Dynamic-ETL-Pipeline
 ```
-
-**Note:** Replace `YOUR_USERNAME` with your actual GitHub username.
 
 ### Step 2: Create Virtual Environment
 ```bash
